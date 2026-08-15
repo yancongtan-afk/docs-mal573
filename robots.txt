@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-j0vite.trans88.space/sitemap.xml
